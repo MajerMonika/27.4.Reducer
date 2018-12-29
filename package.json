@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MajerMonika/27.4.Reducer/issues"
   },
-  "homepage": "https://github.com/MajerMonika/27.4.Reducer#readme"
+  "homepage": "https://github.com/MajerMonika/27.4.Reducer#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
 }
